@@ -5,4 +5,3 @@ This README would normally document whatever steps are necessary to get your app
 ### What is this repository for? ###
 
 * University Portal example for student and Faculty Management.
-
